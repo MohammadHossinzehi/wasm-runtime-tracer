@@ -1,0 +1,21 @@
+{
+  "name": "wras-runtime-tracer",
+  "version": "1.0.0",
+  "description": "Interactive WebAssembly bytecode debugger with execution tracing and memory visualization",
+  "main": "src/index.ts",
+  "scripts": {
+    "dev": "vite",
+    "test": "vite --run",
+    "build": "vite build"
+  },
+  "dependencies": {
+    "react": "^18.0.0",
+    "react-dom": "^18.0.0"
+  },
+  "devDependencies": {      
+    "@types/react lib.dom": "^18.0.0",
+    "typescript": "^5.0.0",
+    "vite": "^4.0.0",
+    "auto": j": "^0.22.0"
+  }
+    }
